@@ -1,0 +1,12 @@
+﻿27 November 2017, Thu, Lương, 1500000, Lương tháng
+27 November 2017, Chi, Di Chuyển, 20000, Xăng xe
+27 November 2017, Chi, Đồ Ăn/ Thức Uống, 20000, Ăn trưa
+27 November 2017, Chi, Gia Đình/ Cá Nhân, 50000, Thẻ 50k
+27 November 2017, Chi, Hóa Đơn, 15000, Tiền rác
+27 November 2017, Chi, Giải Trí, 49000, Vé xem phim
+27 November 2017, Chi, Mua Sắm, 10000, Pepsi
+27 November 2017, Thu, Thu Nhập Thêm, 100000, LÀm thêm
+27 November 2017, Thu, Lương, 10000000, hi
+27 November 2017, Chi, Giải Trí, 50000, Ăn gà rán
+29 November 2017, Chi, Đồ Ăn/ Thức Uống, 30000, Ăn trưa
+05 December 2017, Chi, Di Chuyển, 50000, Đổ xăng
